@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b3a820a.css",
+    "main.js": "/static/js/main.11151ed0.js",
+    "static/js/787.e9e95e4d.chunk.js": "/static/js/787.e9e95e4d.chunk.js",
+    "static/media/macnook-light.jpg": "/static/media/macnook-light.1549a6448794b6240fff.jpg",
+    "static/media/CutiveMono-Regular.ttf": "/static/media/CutiveMono-Regular.0ca4da0b0a4342cac8d3.ttf",
+    "static/media/Profilee.jpg": "/static/media/Profilee.9b447438086b2570deb5.jpg",
+    "static/media/FredokaOne-Regular.ttf": "/static/media/FredokaOne-Regular.4aea26dd6637dfac0fac.ttf",
+    "static/media/Font1": "/static/media/Font1.39576fe9df8a22cc1bcc",
+    "index.html": "/index.html",
+    "main.0b3a820a.css.map": "/static/css/main.0b3a820a.css.map",
+    "main.11151ed0.js.map": "/static/js/main.11151ed0.js.map",
+    "787.e9e95e4d.chunk.js.map": "/static/js/787.e9e95e4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3a820a.css",
+    "static/js/main.11151ed0.js"
+  ]
+}
